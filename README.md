@@ -8,11 +8,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaparadkar" alt="anushka" /> </p>
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+ <b>Skills<b> <br>
+
+<b>Programming Skills <b> <br>
+
+<p align="center">
+ 
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/r-logo-svg-4.svg" alt="iot" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+
+ </p>
 
 - 🌱 I’m currently pursuing a Post Graduation Diploma in Machine Learning and AI
 - 💬 Ping me about Data Science - Machine Learning , Data Visualization , BI Tools
 - 📧 Reach me: [anupara15@gmail.com](mailto:anupara15@gmail.com)
-- 🌟 <pre> Fun fact: I love wildlife photography 📸 🐯   [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/into_the__wilderness_/) </prev>
+- 🌟 Fun fact: I love wildlife photography 📸 🐯 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/into_the__wilderness_/)
 
 <p align = 'left' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaparadkar&layout=compact" alt="anushka" /></p>
 <p > <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=anushkaparadkar&show_icons=true&hide_border=true"/> </p>
