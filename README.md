@@ -15,9 +15,8 @@
 <p align="center">
  
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/r-logo-svg-4.svg" alt="iot" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/r-logo-svg-4.svg" alt="R" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
 
  </p>
 
