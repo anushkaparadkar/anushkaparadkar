@@ -10,21 +10,22 @@
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
  <b>Skills<b> <br>
 
-<b>1.Programming Skills <b> <br>
+<b>1.Programming Languages <b> <br>
 
 <p align="center">
  
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/r-logo-svg-4.svg" alt="R" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
 
  </p>
 
 <b>BI Tools <b> <br>
 
 <p>
-<img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/download.svg" alt="powerbi" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/Tableau_Logo.svg" alt="Tableau" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/powerbi.svg" alt="powerbi" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/tableau.svg" alt="Tableau" style="vertical-align:top; margin:4px">
 </p>
 
 - 🌱 I’m currently pursuing a Post Graduation Diploma in Machine Learning and AI
