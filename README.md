@@ -28,6 +28,11 @@
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/tableau.svg" alt="Tableau" style="vertical-align:top; margin:4px">
 </p>
 
+<b>Frameworks <b> <br>
+<img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/vue-js-1.svg" alt="vuejs" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/apache-spark-5.svg" alt="spark" style="vertical-align:top; margin:4px">
+
 - 🌱 I’m currently pursuing a Post Graduation Diploma in Machine Learning and AI
 - 💬 Ping me about Data Science - Machine Learning , Data Visualization , BI Tools
 - 📧 Reach me: [anupara15@gmail.com](mailto:anupara15@gmail.com)
