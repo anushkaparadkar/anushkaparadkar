@@ -12,7 +12,7 @@
 
 <b> 1.Programming Languages <b> <br>
 
-<p align="center">
+<p>
  
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/r-logo-svg-4.svg" alt="R" style="vertical-align:top; margin:4px">
@@ -23,14 +23,14 @@
 
 <b>2. BI Tools <b> <br>
 
-<p align="center">
+<p>
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/powerbi.svg" alt="powerbi" style="vertical-align:top; margin:4px">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/tableau.svg" alt="Tableau" style="vertical-align:top; margin:4px">
 </p>
 
 <b>3. Frameworks <b> <br>
 
-<p align="center">
+<p>
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/vue-js-1.svg" alt="vuejs" style="vertical-align:top; margin:4px">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/apache-spark-5.svg" alt="spark" style="vertical-align:top; margin:4px">
@@ -38,7 +38,7 @@
 
 <b>4. Databases <b> <br>
 
-<p align="center"> 
+<p> 
  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/firebase-1.svg" alt="firebase" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px">
@@ -46,7 +46,7 @@
 
 <b>5. Other skills <b> <br>
 
-<p align="center"> 
+<p> 
  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/git.svg" alt="git" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/microsoft-office-2013.svg" alt="msoffice" style="vertical-align:top; margin:4px">
@@ -54,8 +54,9 @@
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
    <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-
 </p>
+
+<br>
 
 - 🌱 I’m currently pursuing a Post Graduation Diploma in Machine Learning and AI. Currently learning about Tree Models.
 - 💬 Ping me about Data Science - Machine Learning , Data Visualization , BI Tools
