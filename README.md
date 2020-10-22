@@ -10,7 +10,7 @@
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
  <b>Skills<b> <br>
 
-<b>1.Programming Languages <b> <br>
+<b> 1.Programming Languages <b> <br>
 
 <p align="center">
  
@@ -21,19 +21,43 @@
 
  </p>
 
-<b>BI Tools <b> <br>
+<b>2. BI Tools <b> <br>
 
-<p>
+<p align="center">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/powerbi.svg" alt="powerbi" style="vertical-align:top; margin:4px">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/tableau.svg" alt="Tableau" style="vertical-align:top; margin:4px">
 </p>
 
-<b>Frameworks <b> <br>
+<b>3. Frameworks <b> <br>
+
+<p align="center">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/vue-js-1.svg" alt="vuejs" style="vertical-align:top; margin:4px">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
 <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/apache-spark-5.svg" alt="spark" style="vertical-align:top; margin:4px">
+</p>
 
-- 🌱 I’m currently pursuing a Post Graduation Diploma in Machine Learning and AI
+<b>4. Databases <b> <br>
+
+<p align="center"> 
+ <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/firebase-1.svg" alt="firebase" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/mongodb.svg" alt="mongodb" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/mysql.svg" alt="mysql" style="vertical-align:top; margin:4px">
+</p>
+
+<b>5. Other skills <b> <br>
+
+<p align="center"> 
+ <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/git.svg" alt="git" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/microsoft-office-2013.svg" alt="msoffice" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/rstudio-seeklogo.com.svg" alt="rstudio" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+   <img src="https://github.com/anushkaparadkar/anushkaparadkar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+
+</p>
+
+- 🌱 I’m currently pursuing a Post Graduation Diploma in Machine Learning and AI. Currently learning about Tree Models.
 - 💬 Ping me about Data Science - Machine Learning , Data Visualization , BI Tools
 - 📧 Reach me: [anupara15@gmail.com](mailto:anupara15@gmail.com)
 - 🌟 Fun fact: I love wildlife photography 📸 🐯 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/into_the__wilderness_/)
