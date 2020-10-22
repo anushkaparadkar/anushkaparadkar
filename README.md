@@ -3,7 +3,7 @@
 #### I'm a Data Science and Data analytics enthusiast from Mumbai, India.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anushkaparadkar)
-[<img src="https://img.shields.io/github/followers/LeandraOliveiraS?label=follow&style=social" height="22" title="Follow me" />](https://github.com/anushkaparadkar)
+[<img src="https://img.shields.io/github/followers/anushkaparadkar?label=follow&style=social" height="22" title="Follow me" />](https://github.com/anushkaparadkar)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anupara15@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaparadkar" alt="anushka" /> </p>
