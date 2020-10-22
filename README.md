@@ -63,5 +63,7 @@
 - 📧 Reach me: [anupara15@gmail.com](mailto:anupara15@gmail.com)
 - 🌟 Fun fact: I love wildlife photography 📸 🐯 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/into_the__wilderness_/)
 
+<br>
+
 <p align = 'left' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaparadkar&layout=compact" alt="anushka" /></p>
 <p > <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=anushkaparadkar&show_icons=true&hide_border=true"/> </p>
