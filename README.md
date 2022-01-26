@@ -58,7 +58,7 @@
 
 <br>
 
-- 🌱 I’m currently pursuing a Post Graduation Diploma in Machine Learning and AI. Currently learning about RASA chatbots.
+- 🌱 I’m currently pursuing a Masters in Information Technology and Management from UTD.
 - 💬 Ping me about Data Science - Machine Learning , Data Visualization , BI Tools
 - 📧 Reach me: [anupara15@gmail.com](mailto:anupara15@gmail.com)
 - 🌟 Fun fact: I love wildlife photography 📸 🐯 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/into_the__wilderness_/)
